@@ -1,5 +1,16 @@
-# Xylophone Swift
+# Xylophone iOS App 🎵
 
-A small iOS app I built while learning Swift.
+Simple iOS learning project built in Swift.
 
-This project explores basic UI interaction, sound playback, and event handling.
+## What this app does
+- Plays musical notes when user taps colored bars
+- Demonstrates sound playback
+- Demonstrates UI button actions
+
+## Tech
+- Swift
+- UIKit
+- AVFoundation
+
+## Purpose
+Learning iOS development fundamentals.
